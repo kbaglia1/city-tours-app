@@ -1,6 +1,6 @@
-# Final Vue Capstone Project Seed
+# Vue Starter Code
 
-This is the Vue starter project for the final capstone. This document walks you through how to set up and run the project. It also explains the project's features, such as Vue Router, Vuex, and authentication.
+The following content contained in this README identifies the starter code provided by Tech Elevator for this project. I did not write this code, as it was intended to be a launching point for creating the front-end of this application - mostly pertaining to Auth functionality. All other views, components, routes, objects, etc. not included below were written by yours truly.
 
 ## Project setup
 
