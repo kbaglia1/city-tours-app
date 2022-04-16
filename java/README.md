@@ -1,4 +1,6 @@
-# Capstone Starter Project
+# Java Starter Code
+
+The following content contained in this README identifies the starter code provided by Tech Elevator for this project. I did not write this code, as it was intended to be a launching point for creating the back-end of this application - mostly pertaining to Auth functionality. All other classes, interfaces, controllers, databases, objects, etc. not included below were written by yours truly.
 
 ## Database
 
