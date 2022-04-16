@@ -1,2 +1,3 @@
-# City Tours Application (Tech Elevator Bootcamp Capstone)
+# City Tours Application 
+## Tech Elevator Bootcamp Capstone Project
 
